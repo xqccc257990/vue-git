@@ -1,6 +1,7 @@
 # qrcode-with-logos
+        //11
 
-![QRcode-with-logos](https://github.com/zxpsuper/qrcode-with-logos/raw/master/demo.png)
+<!-- ![QRcode-with-logos](https://github.com/zxpsuper/qrcode-with-logos/raw/master/demo.png) -->
 
 ## Introduction
 
