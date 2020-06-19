@@ -1,7 +1,7 @@
 {
-    "name": "cxq-qrcode-with-logos",
+    "name": "cxq--qrcode-with-logos",
     "version": "1.0.2",
-    "description": "![QRcode-with-logos](https://github.com/zxpsuper/qrcode-with-logos/raw/master/demo.png)",
+    "description": "",
     "main": "dist/QRcode-with-logo.js",
     "typings": "types/index.d.ts",
     "scripts": {
@@ -17,7 +17,6 @@
         "size"
     ],
     "repository": {
-
         "type": "git",
         "url": "git+https://github.com/xqccc257990/cxq-QRcode-with-logo.git"
     },
