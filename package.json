@@ -1,7 +1,7 @@
 {
-  "name": "qrcode-with-logos",
+  "name": "n",
   "version": "1.0.2",
-  "description": "",
+  "description": "![QRcode-with-logos](https://github.com/zxpsuper/qrcode-with-logos/raw/master/demo.png)",
   "main": "dist/QRcode-with-logo.js",
   "typings": "types/index.d.ts",
   "scripts": {
