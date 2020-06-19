@@ -1,5 +1,5 @@
 {
-  "name": "n",
+  "name": "cxq-qrcode-with-logos",
   "version": "1.0.2",
   "description": "![QRcode-with-logos](https://github.com/zxpsuper/qrcode-with-logos/raw/master/demo.png)",
   "main": "dist/QRcode-with-logo.js",
@@ -18,14 +18,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zxpsuper/QRcode-with-logo.git"
+    "url": "git+https://github.com/xqccc257990/cxq-QRcode-with-logo.git"
   },
   "author": "suporka",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zxpsuper/QRcode-with-logo/issues"
+    "url": "https://github.com/xqccc257990/cxq-QRcode-with-logo/issues"
   },
-  "homepage": "https://github.com/zxpsuper/QRcode-with-logo#readme",
+  "homepage": "https://github.com/xqccc257990/cxq-QRcode-with-logo#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "file-loader": "^4.0.0",
